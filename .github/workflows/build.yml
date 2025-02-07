@@ -1,4 +1,6 @@
-﻿on: push
+﻿name: Build Workflow
+
+on: workflow_dispatch
 
 jobs:
   build:
